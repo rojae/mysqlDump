@@ -1,4 +1,4 @@
-# douzone-ned-mysqldump
+# mysqldump
 - Mysql Dump Bash Script
 - /bin: 실행 파일
 - /cron: crontab 수행 로그 파일
